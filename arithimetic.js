@@ -1,0 +1,10 @@
+let a=10;
+let b=20;
+console.log(typeof(a));
+console.log(typeof(b));
+console.log("Addition = "+(a+b));
+console.log("Difference = "+(a-b));
+console.log("Multiplication = "+(a*b));
+console.log("Division = "+(a/b));
+console.log("Module divison = "+(a%b));
+console.log("Squaare = "+(a**b));
